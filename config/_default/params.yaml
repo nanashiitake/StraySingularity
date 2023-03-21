@@ -17,7 +17,7 @@ keywords:
 copyright: "Copyright &copy; 2023-{year} Denis P."
 
 # Colour scheme. Options: red, orange, magenta, cyan, blue, brown
-colorScheme: "green"
+colorScheme: "red"
 
 # Used in site header
 tagline: An archive of my feels and thoughts.
